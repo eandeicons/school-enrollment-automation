@@ -55,3 +55,22 @@ Email: eandeinsights@gmail.com
 Website: https://github.com/eandeicons
 
 *Smart Digital Solutions for Better Business Operations.*
+
+
+## Project Screenshots
+
+### 1. Make.com Automation Scenario 1
+
+![Make.com Scenario 1](screenshots/make-scenario-1.png)
+
+### 2. Make.com Automation Scenario 2
+
+![Make.com Scenario 2](screenshots/make-scenario-2.png)
+
+### 3. Online Application Form
+
+![Application Form](screenshots/application%20form.PNG)
+
+### 4. Airtable Application Records
+
+![Airtable Application Records](screenshots/airtable-application-records.PNG)
