@@ -74,3 +74,12 @@ Website: https://github.com/eandeicons
 ### 4. Airtable Application Records
 
 ![Airtable Application Records](screenshots/airtable-application-records.PNG)
+
+
+### 5. Automated WhatsApp Notification to the School
+
+![School WhatsApp Notification](screenshots/school-whatsapp-notification.png)
+
+### 6. Automated Email Confirmation to the Parent
+
+![Parent Email Confirmation](screenshots/parent-email-confirmation.PNG)
