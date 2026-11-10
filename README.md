@@ -56,6 +56,11 @@ Website: https://github.com/eandeicons
 
 *Smart Digital Solutions for Better Business Operations.*
 
+## Project Demonstration Video
+
+Watch the demonstration of the School Enrollment Automation System, showcasing the AppSheet dashboard, Make.com automation workflow, Airtable database, WhatsApp notifications, and email confirmations.
+
+[**Watch the Full Project Demonstration Video**](https://drive.google.com/file/d/1h6K1JA0WgU017eCc0l0mIzJkBIKFXQYr/view?usp=sharing)
 
 ## Project Screenshots
 
